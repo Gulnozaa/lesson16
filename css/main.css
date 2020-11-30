@@ -1,0 +1,35 @@
+.container{
+
+    margin-top: 100px;
+}
+.col{
+    display: flex;
+}
+.icon{
+    height: 350px;
+    width: 60%;
+    margin-top: 100px;
+    padding-left: 100px;
+}
+.chaps  {
+    width: 20%;
+    height: 350px;
+}
+.ongs {
+    width: 20%;
+    height: 350px;
+}
+.row{
+    height: 150px;
+    width: 1000px;
+
+}
+.cad{
+    height: 70%;
+    width: 14.28%;
+
+    padding: 8px;
+}
+.cad:nth-child(1){
+    border: blue solid 2px;
+}
