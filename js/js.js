@@ -6,27 +6,27 @@ function ong() {
     }
     else  if (document.getElementById("rasm").src=="https://gulnozaa.github.io/lesson16/image/ORLANDO-300x133.png"){
     document.getElementById("rasm").src="image/SPARK-300x180.png"
-        document.getElementById("1").style.borderColor='black solid 2px'
+        document.getElementById("2").style.borderColor='black solid 2px'
     }
     else  if (document.getElementById("rasm").src=="https://gulnozaa.github.io/lesson16/image/SPARK-300x180.png"){
     document.getElementById("rasm").src="image/TRACKER-300x165.png"
-        document.getElementById("1").style.borderColor='black solid 2px'
+        document.getElementById("3").style.borderColor='black solid 2px'
     }
     else  if (document.getElementById("rasm").src=="https://gulnozaa.github.io/lesson16/image/TRACKER-300x165.png"){
     document.getElementById("rasm").src="image/LEXUS120.png"
-        document.getElementById("1").style.borderColor='black solid 2px'
+        document.getElementById("4").style.borderColor='black solid 2px'
     }
     else  if (document.getElementById("rasm").src=="https://gulnozaa.github.io/lesson16/image/LEXUS120.png"){
     document.getElementById("rasm").src="image/MALIBU1.png"
-        document.getElementById("1").style.borderColor='black solid 2px'
+        document.getElementById("5").style.borderColor='black solid 2px'
     }
     else  if (document.getElementById("rasm").src=="https://gulnozaa.github.io/lesson16/image/MALIBU1.png"){
     document.getElementById("rasm").src="image/ML350.png"
-        document.getElementById("1").style.borderColor='black solid 2px'
+        document.getElementById("6").style.borderColor='black solid 2px'
     }
     else  if (document.getElementById("rasm").src=="https://gulnozaa.github.io/lesson16/image/ML350.png"){
     document.getElementById("rasm").src="image/NEXIA3-300x152.png"
-        document.getElementById("1").style.borderColor='black solid 2px'
+        document.getElementById("7").style.borderColor='black solid 2px'
     }
 }
 
@@ -40,21 +40,27 @@ function chap() {
     }
     else  if (document.getElementById("rasm").src=="https://gulnozaa.github.io/lesson16/image/ML350.png"){
         document.getElementById("rasm").src="image/MALIBU1.png"
+        document.getElementById("2").style.borderColor = "black solid 2px"
     }
     else  if (document.getElementById("rasm").src=="https://gulnozaa.github.io/lesson16/image/MALIBU1.png"){
         document.getElementById("rasm").src="image/LEXUS120.png"
+        document.getElementById("3").style.borderColor = "black solid 2px"
     }
     else  if (document.getElementById("rasm").src=="https://gulnozaa.github.io/lesson16/image/LEXUS120.png"){
         document.getElementById("rasm").src="image/TRACKER-300x165.png"
+        document.getElementById("4").style.borderColor = "black solid 2px"
     }
     else  if (document.getElementById("rasm").src=="https://gulnozaa.github.io/lesson16/image/TRACKER-300x165.png"){
         document.getElementById("rasm").src="image/SPARK-300x180.png"
+        document.getElementById("5").style.borderColor = "black solid 2px"
     }
     else  if (document.getElementById("rasm").src=="https://gulnozaa.github.io/lesson16/image/SPARK-300x180.png"){
         document.getElementById("rasm").src="image/ORLANDO-300x133.png"
+        document.getElementById("6").style.borderColor = "black solid 2px"
     }
     else  if (document.getElementById("rasm").src=="https://gulnozaa.github.io/lesson16/image/ORLANDO-300x133.png"){
         document.getElementById("rasm").src="image/NEXIA3-300x152.png"
+        document.getElementById("7").style.borderColor = "black solid 2px"
     }
 }
 
